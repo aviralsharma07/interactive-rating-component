@@ -17,15 +17,17 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 Users should be able to:
 
-- View the optimal layout for the app depending on their device's screen size
+- View the optimal layout for the app depending on the device's screen size
 - See hover states for all interactive elements on the page
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
 
-<img src="./screenshots/desktop-img.png" />
-<img src="./screenshots/mobile-img.png" />
+<div>
+<img src="./screenshots/desktop-img.png" width="700" height="500"/>
+<img src="./screenshots/mobile-img.png" width="300" height="500"/>
+</div>
 
 ### Links
 
